@@ -62,11 +62,11 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'anime',
+  'astolfo',
+  'nokotan',
+  'jujutsu kaisen',
+  'hitori gotoh'
 ]
 
 const VIDEOS = [
@@ -102,14 +102,14 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
-  'birds are funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr',
-  'knuuurrr eksplozja',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
-  'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' ',
+  ' '
 ]
 
 const LOGOUT_SITES = {
